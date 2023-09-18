@@ -2,7 +2,7 @@
 
 Library é um projeto criado para fins de estudo e familiarização com algumas bibliotecas.
 
-## Tecnoligias usadas no projeto:
+## Tecnologias usadas no projeto:
 
 - TypeScript - usado para fazer a tipagem do código escrito em JavaScript, o que dá diversas vantagens ao escrever o código.
 - [Material-UI](https://mui.com/) - biblioteca usada para facilitar a criação de elementos na tela.
