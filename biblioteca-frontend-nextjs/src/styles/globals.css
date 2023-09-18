@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+/* p {
+  margin: 0;
+}
+
+h1 {
+  margin: 0;
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+  font-family: Roboto;
+  color: #3e4756;
+}
+
+h2 {
+  margin: 0;
+  font-weight: bold;
+  font-size: 16px;
+  font-family: Roboto;
+  color: #3e4756;
+} */
+
+.swal2-actions {
+  gap: 1rem;
+}
+.sweet-alert-button-ok {
+  font: normal normal 600 1rem/1.125rem Roboto;
+  text-transform: uppercase;
+  border-radius: 0.25rem;
+  width: 4rem;
+  height: 2.5rem;
+  border: none;
+  cursor: pointer;
+  background-color: #ffc501;
+  color: black;
+}
+.sweet-alert-button-cancelar {
+  font: normal normal 600 1rem/1.125rem Roboto;
+  text-transform: uppercase;
+  border-radius: 0.25rem;
+  width: 4rem;
+  height: 2.5rem;
+  border: none;
+  cursor: pointer;
+  box-shadow: 0 0 0 0.063rem #133052 inset;
+  background-color: white;
+  color: black;
+}
